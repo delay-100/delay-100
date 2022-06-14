@@ -10,7 +10,7 @@
   
 </div>
 
-- This is my FIRST PROJECT
+- This is my Own FIRST PROJECT
 - Full Stack developed
 
 ------
