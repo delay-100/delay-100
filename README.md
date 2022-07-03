@@ -9,7 +9,7 @@
   
 </div>
 
-- This is my Own FIRST PROJECT
+- This is my <strong>OWN FIRST PROJECT</strong>
 - Full Stack developed
 
 ------
