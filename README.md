@@ -1,5 +1,5 @@
 <!-- info -->
-:wave: Welcome!
+:wave: WELCOME!
 
 <!-- TASTEYOM -->
 ## <a href="http://tasteyom.com"> :meat_on_bone:TASTEYOM </a>
