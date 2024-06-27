@@ -1,17 +1,6 @@
 <!-- info -->
 :wave: WELCOME!
 
-<!-- TASTEYOM --> 
-## <a href="http://tasteyom.com"> :meat_on_bone:TASTEYOM - 서비스 종료 </a>
-<div align="center">
-  
-![image](https://user-images.githubusercontent.com/49058580/173588612-70de547b-f053-4a7e-bf63-90a239c7867b.png)
-  
-</div>
-
-- This is my <strong>OWN FIRST PROJECT</strong>
-- Full Stack developed
-
 ------
 <!-- Language logo-->
 ### Main Lanauage
@@ -28,7 +17,7 @@
 <!-- most used language -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delay-100&layout=compact)](https://github.com/delay-100/github-readme-stats) <!-- Github Status --> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delay-100&show_icons=true&theme=dracula)
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=delay_100)](https://solved.ac/delay_100)
+
 </div>
-<div>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=delay_100)](https://solved.ac/delay_100/)
-</div>
+
