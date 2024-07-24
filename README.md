@@ -26,6 +26,8 @@
 <!-- most used language -->
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=delay_100)](https://solved.ac/delay_100)<!-- Github Status --> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delay-100&show_icons=true&theme=dracula)
 
-
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/delay-100?pet-id=1" width="1000" height="120"/>
+</a>
 </div>
 
